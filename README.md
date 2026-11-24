@@ -1,5 +1,7 @@
 # HT MCP server
 
+[![HT MCP connector](https://glama.ai/mcp/connectors/com.waterlessradiant/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.waterlessradiant/site)
+
 **Answers questions on waterless heat-pump radiant floor heating and cooling for US builders, architects, HVAC contractors and developers.**
 
 A free, public [MCP](https://modelcontextprotocol.io) server from [HT](https://waterlessradiant.com?utm_source=github&utm_medium=readme&utm_campaign=mcp): **HT Waterless Radiant Heating Reference**. Connect it to ChatGPT, Claude or another AI assistant and it answers from HT's published guides and articles, citing the page each answer comes from.
