@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ht-waterlessradiant": {
+      "type": "http",
+      "url": "https://waterlessradiant.com/mcp"
+    }
+  }
+}
