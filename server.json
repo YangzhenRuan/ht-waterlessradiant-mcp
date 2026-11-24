@@ -3,8 +3,17 @@
   "name": "com.waterlessradiant/site",
   "title": "HT Waterless Radiant Heating Reference",
   "description": "Search HT guides on waterless radiant heating and cooling; ask HT specialists what they don't cover",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "websiteUrl": "https://waterlessradiant.com",
+  "icons": [
+    {
+      "src": "https://waterlessradiant.com/images/ht-radiant/logo.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
